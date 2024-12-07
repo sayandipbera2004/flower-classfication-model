@@ -1,6 +1,6 @@
 tensorflow>=2.6.0,<3.0.0
 streamlit>=1.40.0
-keras  # Optional, if you're using TensorFlow's Keras API, no need for a separate Keras install
+keras  
 pandas
 numpy
 Pillow
